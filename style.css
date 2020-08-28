@@ -86,27 +86,27 @@ textarea
 
 /* links */
 a:link {
-  font-size: 14px;
+  font-size: 16px;
   text-decoration: none;
-  color: rgb(105, 108, 146);
+  color: rgb(74, 83, 199);
 }
 
 a:visited {
-  font-size: 14px;
+  font-size: 16px;
   text-decoration: none;
-  color: rgb(91, 94, 128);
+  color: rgb(51, 57, 141);
 }
 
 a:hover {
-  font-size: 14px;
+  font-size: 16px;
   text-decoration: none;
-  color: rgb(146, 151, 199);
+  color: rgb(174, 180, 236)
 }
 
 a:active {
-  font-size: 14px;
+  font-size: 16px;
   text-decoration: none;
-  color: rgb(91, 94, 128);
+  color: rgb(88, 97, 224);
 }
 
 iframe{
